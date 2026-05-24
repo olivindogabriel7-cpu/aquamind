@@ -78,12 +78,9 @@ Adicione aqui fotos do protótipo físico.
 ```
 
 ## Aplicativo
-Adicione prints do aplicativo ou dashboard.
 
-```md
-![Aplicativo](MyImage-1779626736-00 (1).jpg)
-```
----
+<img src="MyImage-1779626736-00 (1).jpg" alt="Descrição da imagem" width="400" height="400">
+
 
 # 👨‍💻 Equipe
 
