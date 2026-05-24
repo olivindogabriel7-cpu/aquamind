@@ -71,11 +71,9 @@ Essas informações são enviadas para uma ESP32, que processa os dados e transm
 # 📷 Imagens do Projeto
 
 ## Protótipo
-Adicione aqui fotos do protótipo físico.
 
-```md
-![Protótipo](imagens/prototipo.jpg)
-```
+<img src="MyImage-1779627993-00.jpg" alt="Descrição da imagem" width="400" height="400">
+
 
 ## Aplicativo
 
