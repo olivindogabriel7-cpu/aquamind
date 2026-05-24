@@ -81,7 +81,7 @@ Adicione aqui fotos do protótipo físico.
 Adicione prints do aplicativo ou dashboard.
 
 ```md
-![Aplicativo](imagens/app.png)
+![Aplicativo](MyImage-1779626736-00 (1).jpg)
 ```
 ---
 
