@@ -29,6 +29,9 @@ Essas informações são enviadas para uma ESP32, que processa os dados e transm
 
 ## Hardware
 - ESP32
+- USB-C
+- Jumper 120U
+- HC-SR04
 
 ## Software e Plataformas
 - Linguagem C++
