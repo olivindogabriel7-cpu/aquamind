@@ -18,11 +18,11 @@ O AquaMind surge como uma solução acessível e inteligente para melhorar a ges
 
 # 💡 Solução Desenvolvida
 
-O AquaMind utiliza tecnologia IoT (Internet das Coisas) para monitorar o nível da água em tempo real.
+O AquaMind foi desenvolvido como uma solução inteligente para auxiliar escolas no monitoramento do nível de água em reservatórios, substituindo verificações manuais por um sistema automatizado.
+Utilizando tecnologias de Internet das Coisas (IoT), a proposta busca tornar o acompanhamento mais prático e eficiente.
 
-O sistema funciona através de um sensor ultrassônico instalado na caixa d’água, responsável por medir constantemente a distância até a superfície da água.
-
-Essas informações são enviadas para uma ESP32, que processa os dados e transmite tudo via Wi-Fi para o aplicativo Blynk.
+No MVP do projeto, o sensor HC-SR04 realiza a medição da distância até a superfície da água, enquanto a ESP32 processa os dados e os envia via Wi-Fi para o Blynk. Assim, é possível acompanhar 
+as informações remotamente, contribuindo para reduzir desperdícios e melhorar o controle do abastecimento. Como evolução futura, o sistema poderá utilizar o sensor JSN-SR04T, mais adequado para aplicações reais em ambientes úmidos.
 
 
 # 🛠 Tecnologias Utilizadas
@@ -44,7 +44,22 @@ Essas informações são enviadas para uma ESP32, que processa os dados e transm
 
 ## 1. Montagem do Circuito
 
+#Componentes
+- ESP32
+- HC-SR04
+- Jumpers 120U
+- Cabo USB-C
 
+#Ligações
+- VCC → 5V
+- GND → GND
+- TRIG → GPIO 5
+- ECHO → GPIO 18
+
+#Instalação
+Sensor fixado na tampa da caixa d’água;
+Sensor apontado para a água;
+ESP32 protegida em caixa plástica.
 
 ## 2. Configuração do Blynk
 
