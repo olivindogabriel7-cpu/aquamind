@@ -95,7 +95,7 @@ ESP32 protegida em caixa plástica.
 
 ## Aplicativo
 
-<img src="MyImage-1779626736-00 (1).jpg" alt="Descrição da imagem" width="400" height="400">
+<img src="IMG-20260527-WA0187.jpg" alt="Descrição da imagem" width="400" height="400">
 
 
 # 👨‍💻 Equipe
