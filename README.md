@@ -90,7 +90,7 @@ ESP32 protegida em caixa plástica.
 
 ## Protótipo
 
-<img src="MyImage-1779918360-00.jpg" alt="Descrição da imagem" width="300" height="400">
+<img src="IMG_8770.jpeg" alt="Descrição da imagem" width="300" height="400">
 
 
 ## Aplicativo
